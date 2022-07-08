@@ -1,6 +1,6 @@
 [![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Hansika Pereta</h1>
+<h1 align="center">Hi 👋, I'm Hansika Perera</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansikaperera1117&label=Profile%20views&color=0e75b6&style=flat" alt="hansikaperera1117" /> </p>
 
